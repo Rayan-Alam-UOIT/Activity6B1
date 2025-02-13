@@ -51,4 +51,5 @@ def calculator():
             print("Goodbye!")
             break
 
+# Running the calculator function
 calculator()
